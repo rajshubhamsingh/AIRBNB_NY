@@ -50,9 +50,3 @@ This project provides a detailed **exploratory data analysis** and **interactive
 - Top 10 hosts by number of listings
 - Room type distribution pie chart
 
-*(Screenshots can be added in the GitHub repo for better illustration)*
-
----
-
-## 📂 Project Structure
-
